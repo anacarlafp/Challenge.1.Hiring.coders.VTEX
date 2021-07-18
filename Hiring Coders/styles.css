@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.section-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+footer{
+    height: 150px;
+    padding: 25px;
+    text-align: center;
+    background-color: lightpink;
+    color: bisque;
+}
+
+input{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 12px;
+    background: black;
+    color: chocolate;
+}
+form{
+    display: grid;
+}
